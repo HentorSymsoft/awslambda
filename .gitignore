@@ -1,0 +1,10 @@
+DS_Store
+*.iml
+*.ipr
+*iws
+target
+bundle.xml
+bundle.zip
+.idea
+.m2
+
